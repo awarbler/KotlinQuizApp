@@ -1,7 +1,7 @@
 # Overview
 
 <!--{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}-->
-I was attempting to learn Kotlin in a two week period as well as an android application. 
+I was attempting to learn Kotlin in a two week period as well as an android studio application. I was trying to figure out a way to quiz myself for upcoming test. I was able to accomplish this goal using Kotlin and Android Studio. I was able to learn some xml and create the layout for the mobile application. I created three pages the login page, the question page, and the results page. I was able to receive input from the user and store the data, and retrieve it for the results page. 
 
 
 <!--{Provide a description the software that you wrote to demonstrate the Kotlin language.}-->
